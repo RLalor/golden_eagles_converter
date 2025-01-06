@@ -41,3 +41,5 @@ print(f"Your Golden Eagles have a value of: {base_ge / type_ge} Thai Baht")
 #print("\n")
 #print("2500")
 #print(2500 / 578)
+
+# this line is for a test commit. Delete it
